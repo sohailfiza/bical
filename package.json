@@ -1,0 +1,34 @@
+{
+  "name": "bical",
+  "version": "1.0.0",
+  "description": "Binary Calculator and Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohailfiza/bical.git"
+  },
+  "keywords": [
+    "Binary",
+    "Binary Calculator",
+    "Binary Addition",
+    "Binary Substraction",
+    "Binary Multiplication",
+    "Binary Division",
+    "Binary Converter",
+    "Binary to Decimal",
+    "Binary to Hexadecimal",
+    "Binary to Octal",
+    "Octal to Binary",
+    "Decimal to Binary",
+    "Hexadecimal to Binary"
+  ],
+  "author": "Md Sohail Fiza <mailsohailfiza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohailfiza/bical/issues"
+  },
+  "homepage": "https://github.com/sohailfiza/bical#readme"
+}
